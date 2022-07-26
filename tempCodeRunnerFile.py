@@ -1,0 +1,1 @@
+pygame.draw.rect(SCREEN,(255,0,255),pygame.Rect(block.x,block.y,100,100))
