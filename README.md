@@ -20,3 +20,12 @@ There are other values such as score, level, and game_over
 3. Game_over: Keeps track if the game is still running or if the player has lost
    
 ### Game Images
+![alt text](https://github.com/martinwong2020/Crumble_Building_Game/blob/main/img/Normal_Game.PNG?raw=true)
+![alt text](https://github.com/martinwong2020/Crumble_Building_Game/blob/main/img/jumping.PNG?raw=true)
+![alt text](https://github.com/martinwong2020/Crumble_Building_Game/blob/main/img/Game_over.PNG?raw=true)
+
+### Instructions
+1. Install the Code and Unzip
+2. Run the main.py
+3. Use arrow keys and WASD and space bar to move the character
+
